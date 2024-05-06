@@ -1,1 +1,4 @@
-what ?? jen zir abaye mola
+what ?? 
+
+write meaningful git commit massages
+write them in present tense and not past tense
